@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'HelloWebapp22'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_493796FB9A174938AD616754CF21B3BB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1DA15B30419D40AAB3506D15B164BEEA }}
